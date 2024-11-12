@@ -50,7 +50,7 @@ Before setting up the project, ensure you have the following:
 
 5. Run the Flask application:
    ```
-   python test3.py
+   python test.py
    ```
 
 The API should now be running on `http://localhost:5000`.
